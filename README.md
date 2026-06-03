@@ -23,6 +23,12 @@ I don't separate coding from the rest of my life. I approach it the same way I a
 
 When I'm not writing code, I'm probably analyzing an Arsenal game (I'm a HUGE fan!), dialing in a tone on my NUX MG-30, or thinking about how the Gita applies to whatever problem I'm stuck on. Personally, I have many hobbies and passions. 
 
+Tech Credentials:
+- Learnt CAD (Fusion360), Electronics(Arduino), IOT (ESP32), woodworking, PCB and soldering, and VR in the Maker's Asylum program
+- Recently did AP CS Principles and AP CS A exam
+- Came 3rd in the world in Silverzone Informatics Olympiad exam (in 9th grade)
+- Completed several Python courses on Coursera and AI courses on Linkedin Learning
+   
 ---
 
 ## What I'm Building
