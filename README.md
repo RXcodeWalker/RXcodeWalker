@@ -31,12 +31,14 @@ When I'm not writing code, I'm probably analyzing an Arsenal game (I'm a HUGE fa
 My digital home, built from scratch with Astro. It features a sports blog, project showcase, and more. The name reflects how I think about learning — getting past surface knowledge to something real.
 `Astro` · `HTML/CSS` · `JavaScript` 
 
-### 🇫🇷 [French Coach 2.0](https://github.com/RXcodeWalker/frenchcoach2.0) — *AI Speaking Practice App* · [Live](https://french-20.vercel.app)
-A web app for IGCSE/A-Level French learners where you record spoken responses and get structured AI feedback on grammar, vocabulary, and fluency. Built a diagnostic engine that tracks skill mastery across 14 grammar categories using exponential decay — skills you haven't practiced fade naturally over time. Grew out of teaching French to younger students at school; I wanted the practice tool I couldn't find off the shelf.  
+### 🇫🇷 [French Coach 2.0](https://github.com/RXcodeWalker/frenchcoach2.0) — *AI Speaking Practice App* · [Live](https://french.beyondthebasics.me)
+A web app for IGCSE/A-Level French learners where you record spoken responses and get structured AI feedback on grammar, vocabulary, and fluency. Built a diagnostic engine that tracks skill mastery across 14 grammar categories using exponential decay — skills you haven't practiced fade naturally over time. Grew out of teaching French to younger students at school; I wanted the practice tool I couldn't find off the shelf.
+Note: This is a work in progress.
 `React` · `TypeScript` · `Tailwind CSS` · `Framer Motion`
  
-### 🧠 [Momentum OS](https://github.com/RXcodeWalker/momentum-os) — *Behavioral Productivity System* · [Live](https://momentum-os-lake.vercel.app)
+### 🧠 [Momentum OS](https://github.com/RXcodeWalker/momentum-os) — *Behavioral Productivity System* · [Live](https://momentum.beyondthebasics.me)
 Rather than tracking tasks, this tracks behavioral patterns. Each evening check-in feeds a weighted execution score (task completion, focus, sleep, energy, distractions, honesty) and classifies your state as peak, steady, building, burnout, or recovery — auto-triggering a recovery protocol when your score drops below 45. Intelligence selectors run on top: distraction profiling, 14-day blocker pattern detection, and an insight effectiveness tracker that tells you whether the habits you commit to are actually moving your scores.  
+Note: This is a work in progress.
 `React` · `TypeScript` · `TanStack Start` · `Zustand` · `Framer Motion`
  
 ---
