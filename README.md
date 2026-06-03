@@ -81,5 +81,4 @@ Note: This is a work in progress.
 
 ---
 
-- ⚡ Fun fact: ...
--->
+*Built with curiosity. Deployed with intention. Always a work in progress.*
