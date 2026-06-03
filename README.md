@@ -42,7 +42,25 @@ Note: This is a work in progress.
 `React` · `TypeScript` · `TanStack Start` · `Zustand` · `Framer Motion`
  
 ---
-
+## Tech Stack
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+ 
+**Tools & Frameworks**
+ 
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+ 
+---
+ 
 ## Beyond The Screen
 
 - 🎸 Electric guitar — Yamaha Pacifica + NUX MG-30 multi-effects. I've performed in four concerts in Mumbai and completed my Grade 8 LCM guitar exam   with distinction. 
